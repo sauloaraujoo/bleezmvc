@@ -1,2 +1,2 @@
-*This is a examle to create a applition for CRUD by using MVC design pattern,  PDO extension, Jquery and Twitter Bootstrap.
-uisng JSON as data-interchange format for HTTP request and response.*
+Este é um teste para a Bleez, desenvolvida em PHP utilizando como plataforma apenas o notepad++, e utilizando o banco de dados Mysql.
+
