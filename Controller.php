@@ -3,6 +3,7 @@ function __autoload($className){
 	include_once("models/$className.php");	
 }
 
+//connectionstring
 $users=new User("localhost","root","","banco_bleez");
 $products=new Product("localhost","root","","banco_bleez");
 
